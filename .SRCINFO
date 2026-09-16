@@ -1,6 +1,6 @@
 pkgbase = maki-git
 	pkgdesc = An efficient AI coding agent. Native Rust TUI, extendable with Neovim-like Lua plugins
-	pkgver = 0.5.3.r25.g0be4ebd
+	pkgver = 0.5.5.r0.g3a0c8de
 	pkgrel = 1
 	url = https://github.com/tontinton/maki
 	arch = x86_64
@@ -14,7 +14,7 @@ pkgbase = maki-git
 	depends = glibc
 	depends = zlib
 	optdepends = rtk: filter bash output to save ~50% of those tokens
-	provides = maki=0.5.3.r25.g0be4ebd
+	provides = maki=0.5.5.r0.g3a0c8de
 	conflicts = maki
 	conflicts = maki-bin
 	options = !lto
