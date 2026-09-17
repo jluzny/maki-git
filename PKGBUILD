@@ -2,7 +2,7 @@
 # VCS package: builds maki from the upstream git repository (tip of default branch).
 # Upstream: https://github.com/tontinton/maki
 pkgname=maki-git
-pkgver=0.5.5.r0.g3a0c8de
+pkgver=0.5.5.r5.g5da1b2a
 pkgrel=1
 pkgdesc='An efficient AI coding agent. Native Rust TUI, extendable with Neovim-like Lua plugins'
 arch=('x86_64' 'aarch64')
