@@ -4,3 +4,4 @@ maki-git/
 *.pkg.tar.zst
 *.pkg.tar
 .SRCINFO.bak*
+rebuild.sh
